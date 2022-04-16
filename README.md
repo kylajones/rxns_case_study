@@ -45,7 +45,7 @@ plateau_analysis
  * sub-directories:
   * plateau_analysis_figs/
     * /sp_fp_obj_plots/
-     * /case_i i = 1,...,10
+      * /case_i i = 1,...,10
     * /sp_fp_plots/
-     * /case_i i = 1,...,10
-     * /case_i i = 1,...,10
+      * /case_i, i = 1,...,10
+      * /case_i, i = 1,...,10
