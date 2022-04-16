@@ -28,8 +28,8 @@ sp_fitted_params.ipynb
 
 ## Generates:
 * files: 
- ** 'case_i_exp_j.png', i= 1,...,10, j=0,...,19
- ** 'A1_vs_case.png'
- ** 'A2_vs_case.png'
- ** 'E1_vs_case.png'
- ** 'E2_vs_case.png'
+ * * 'case_i_exp_j.png', i= 1,...,10, j=0,...,19
+ * * 'A1_vs_case.png'
+ * * 'A2_vs_case.png'
+ * * 'E1_vs_case.png'
+ * * 'E2_vs_case.png'
