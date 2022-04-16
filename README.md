@@ -44,23 +44,23 @@ plateau_analysis.ipynb
   * fitted_parameters_simple_physics_master.csv
  * sub-directories:
    * plateau_analysis_figs/
-     * /sp_fp_obj_plots/
-       * /case_i, i = 1,...,10
+     * sp_fp_obj_plots/
+       * case_i/, i = 1,...,10
      * /sp_fp_plots/
-       * /case_i, i = 1,...,10
+       * case_i/, i = 1,...,10
 
 ## Generates:
 * figures in:
   * plateau_analysis_figs/
     * /sp_fp_obj_plots/
-      * /case_i/
+      * case_i/
         * fig_300_case_i.png
         * fig_350_case_i.png
         * fig_400_case_i.png
         * fig_450_case_i.png
         * fig_500_case_i.png 
-    * /sp_fp_plots/
-      * /case_i/
+    * sp_fp_plots/
+      * case_i/
         * fig_300_case_i.png
         * fig_350_case_i.png
         * fig_400_case_i.png
