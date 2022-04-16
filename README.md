@@ -35,7 +35,7 @@ sp_fitted_params.ipynb
   * 'E2_vs_case.png'
 
 # Notebook 3:
-plateau_analysis
+plateau_analysis.ipynb
 
 ## Dependencies (in order of appearance):
 * files:
@@ -45,7 +45,7 @@ plateau_analysis
  * sub-directories:
   * plateau_analysis_figs/
     * /sp_fp_obj_plots/
-      * /case_i i = 1,...,10
+      * /case_i, i = 1,...,10
     * /sp_fp_plots/
       * /case_i, i = 1,...,10
       * /case_i, i = 1,...,10
