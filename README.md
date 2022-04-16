@@ -6,7 +6,7 @@ add a description of all files
 # Notebook 1:
 reaction_genExpt_v3_kj.ipynb
 
-## Depdendencies:
+## Dependencies:
 * functions: reaction_models.py
 * design space: lhs_20.csv
 * sub-directory: training_data_small_noise_full_physics_2
