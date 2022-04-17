@@ -29,7 +29,7 @@ sp_fitted_params.ipynb
 * files: 
   * reaction_models.py
   * experiment_list.csv
-* sub-directory & files: 
+* sub-directories & files: 
   * regressed_params_sp/
     * fitted_parameters_simple_physics_{i}.csv
   * training_data_small_noise_full_physics_2/
