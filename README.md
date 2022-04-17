@@ -84,3 +84,23 @@ plateau_analysis.ipynb
         * fig_500_case_i.png 
    * obj_vs_t_all_T_case_no_{i}_FP.png
    * obj_vs_t_all_T_case_no_{i}_SP.png
+
+## Notebook:
+fix_t_vary_ca0_heat_maps.ipynb
+
+## Dependencies
+* files:
+  * reaction_models.py
+  * plateau_analysis_fxns.py 
+  * fitted_parameters_simple_physics_master.csv
+* directories and files:
+  * training_data_small_noise_full_physics_2/
+    *  A_true.csv
+    *  E_true.csv
+    *  rxn_exp_{j}.csv
+    *  rxn_exp_{j}_nonoise.csv
+  * concentration_temp_maps/
+    * case_{i}/
+      * obj_fp/
+
+## Generates:
