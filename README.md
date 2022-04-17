@@ -1,16 +1,17 @@
 # rxns_case_study
-Separable hybrid models for reaction engineering case study
-add a description of all files
-
+KJ additions to separable hybrid models reaction engineering case study. Please run all notebooks in order presented below. Depdendencies and generated figures & sub-directories are listed in order of appearance in notebook.
 
 # Notebook 1:
 reaction_genExpt_v3_kj.ipynb
 
-## Dependencies (in order of appearance):
-* file: reaction_models.py
-* file: lhs_20.csv
-* sub-directory & files (included in repo): training_data_small_noise_full_physics_2
-* sub-directory: 'full_physics_kinetics'
+## Dependencies:
+* files: 
+  * reaction_models.py
+  * lhs_20.csv
+* sub-directories & files: 
+  * training_data_small_noise_full_physics_2/
+    *  
+  * full_physics_kinetics/
 
 ## Generates:
 * file: fig-rxn_lhs.png
@@ -46,13 +47,13 @@ plateau_analysis.ipynb
    * plateau_analysis_figs/
      * sp_fp_obj_plots/
        * case_i/, i = 1,...,10
-     * /sp_fp_plots/
+     * sp_fp_plots/
        * case_i/, i = 1,...,10
 
 ## Generates:
 * figures in:
   * plateau_analysis_figs/
-    * /sp_fp_obj_plots/
+    * sp_fp_obj_plots/
       * case_i/
         * fig_300_case_i.png
         * fig_350_case_i.png
