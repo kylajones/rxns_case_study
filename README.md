@@ -1,5 +1,5 @@
 # rxns_case_study
-KJ additions to separable hybrid models reaction engineering case study. Please run all notebooks in order presented below. Please note that case study numbers are indexed with i = 1,...,10 and experiment numbers are j = 1,...,19.
+KJ modifications and additions to separable hybrid models reaction engineering case study. Please run all notebooks in order presented below. Note that indices i and j represent case study numbers (i = 1,...,10) and experiment numbers (j = 1,...,19), respectively.
 
 # Notebook 1:
 reaction_genExpt_v3_kj.ipynb
