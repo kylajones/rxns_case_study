@@ -81,7 +81,7 @@ plateau_analysis.ipynb
         * fig_350_case_{i}.png
         * fig_400_case_{i}.png
         * fig_450_case_{i}.png
-        * fig_500_case_i.png 
+        * fig_500_case_{i}.png 
    * obj_vs_t_all_T_case_no_{i}_FP.png
    * obj_vs_t_all_T_case_no_{i}_SP.png
 
@@ -104,3 +104,26 @@ fix_t_vary_ca0_heat_maps.ipynb
       * obj_fp/
 
 ## Generates:
+  * figures in concentration_temp_maps/
+    * case_{i}/
+      * CA_fig_0.2_case_{i}.png
+      * CA_fig_0.4_case_{i}.png
+      * CA_fig_0.6_case_{i}.png
+      * CA_fig_0.8_case_{i}.png
+      * CA_fig_1.0_case_{i}.png
+      * CB_fig_0.2_case_{i}.png
+      * CB_fig_0.4_case_{i}.png
+      * CB_fig_0.6_case_{i}.png
+      * CB_fig_0.8_case_{i}.png
+      * CB_fig_1.0_case_{i}.png
+      * CC_fig_0.2_case_{i}.png
+      * CC_fig_0.4_case_{i}.png
+      * CC_fig_0.6_case_{i}.png
+      * CC_fig_0.8_case_{i}.png
+      * CC_fig_1.0_case_{i}.png
+      * obj_fp/
+        * obj_fig_0.2_case_{i}.png
+        * obj_fig_0.4_case_{i}.png
+        * obj_fig_0.6_case_{i}.png
+        * obj_fig_0.8_case_{i}.png
+        * obj_fig_1.0_case_{i}.png
